@@ -1,4 +1,4 @@
-# Demo--Basic-Demonstration-of-Hashing-and-Encryption
+# Demo---Basic-Demonstration-of-Hashing-and-Encryption
 
 ### [YouTube Demonstration](https://youtu.be/nhIGJ_AoXNE)
 
