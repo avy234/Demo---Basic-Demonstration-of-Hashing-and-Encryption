@@ -1,1 +1,1 @@
-# Demo---Basic-Demonstration-of-Hashing-and-Encryption
+# Demo--Basic-Demonstration-of-Hashing-and-Encryption
